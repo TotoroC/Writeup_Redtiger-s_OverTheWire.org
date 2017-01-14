@@ -1,9 +1,7 @@
 import urllib2
-import time
 a = b = 1
 headers = {'Cookie':'level4login=there_is_no_bug'}
 result = ""
-time1 = 
 while True:
 	flag = 0
 	for b in range(33,123):

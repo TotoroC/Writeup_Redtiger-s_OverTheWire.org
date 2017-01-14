@@ -8,4 +8,4 @@
 - x ở câu lệnh sql trên chính là vị trí kết quả câu lệnh select và y tham số dùng để so sánh với  kết quả của hàm ascii, nếu đúng thì web sẽ hiện thị `Query returned 1 rows.` còn nếu sai thì sẽ trả lại `Query returned 0 rows.`
 - Trong kết quả trả lại là đúng thì ta sẽ đổi kết quả của y sang ký tự trong bảng mã ascii.
 
-[Giải bằng python]()
+[Giải bằng python](https://github.com/TotoroC/Writeup_Redtiger-s_OverTheWire.org/blob/master/level4.py)
